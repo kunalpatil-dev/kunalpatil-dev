@@ -11,7 +11,7 @@
 - **Frontend:** React.js, Tailwind CSS, HTML, CSS  
 - **Backend:** Node.js, Express.js, REST APIs, Authentication (JWT, OAuth)  
 - **Databases:** MongoDB, PostgreSQL, MySQL  
-- **Languages:** JavaScript, TypeScript, Java, C++, Python
+- **Languages:** JavaScript (ES6+), TypeScript, Java, C++, Python
 - **Tools & Technologies:** Git, GitHub, Postman, Prisma ORM, Linux  
 
 ---
@@ -24,7 +24,7 @@
 - Worked on **responsive UI components** to improve cross-device usability  
 - Enhanced **user experience** through improved navigation and design  
 - Collaborated in **agile sprints** for timely feature delivery  
-- **Tech Used:** HTML5, CSS3, JavaScript, Bootstrap
+- **Tech Used:** HTML5, CSS3, JavaScript (ES6+), Bootstrap
 
 ---
 
