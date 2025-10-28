@@ -11,7 +11,7 @@
 - **Frontend:** React.js, Tailwind CSS, HTML, CSS  
 - **Backend:** Node.js, Express.js, REST APIs, Authentication (JWT, OAuth)  
 - **Databases:** MongoDB, PostgreSQL, MySQL  
-- **Languages:** Java, JavaScript, TypeScript, C++, Python
+- **Languages:** JavaScript, TypeScript, Java, C++, Python
 - **Tools & Technologies:** Git, GitHub, Postman, Prisma ORM, Linux  
 
 ---
@@ -29,15 +29,6 @@
 ---
 
 ## 🚀 Projects  
-
-### 🔹Smart LMS – AI Powered Learning Platform [Live Demo](https://smart-lms-d0zm.onrender.com/) | [GitHub Repo](https://github.com/kunal-patil-dev/SmartLMS)  
-
-- Built a SaaS LMS with **personalized AI course recommendations**  
-- Integrated **Google OAuth + Razorpay** for secure authentication and payments  
-- Developed **real-time dashboards** for students & instructors  
-- **Tech Stack:** MERN, Redux Toolkit, Firebase, Google OAuth, Razorpay, Gemini API  
-
----
 
 ### 🔹 SocialSync – Real-Time Social & Video Chat Platform  [Live Demo](https://socialsync-sp8d.onrender.com/) | [GitHub Repo](https://github.com/kunalpatil-dev/SocialSync)  
 
@@ -76,7 +67,7 @@ RMD Sinhgad School of Engineering, Pune, Maharashtra
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kunalpatil_dev/)
 
-[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=readme&logoColor=white)]([https://your-resume-link.com](https://drive.google.com/file/d/1N6jJSnfIRhxzgeoXZtEf5hYHL2mO57Fs/view?usp=drive_link))
+[![Resume](https://drive.google.com/file/d/1N6jJSnfIRhxzgeoXZtEf5hYHL2mO57Fs/view))
 
 
 
