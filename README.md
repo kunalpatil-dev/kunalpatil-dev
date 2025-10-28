@@ -67,7 +67,8 @@ RMD Sinhgad School of Engineering, Pune, Maharashtra
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/kunalpatil_dev/)
 
-[![Resume](https://drive.google.com/file/d/1N6jJSnfIRhxzgeoXZtEf5hYHL2mO57Fs/view))
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1N6jJSnfIRhxzgeoXZtEf5hYHL2mO57Fs/view)
+
 
 
 
