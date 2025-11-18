@@ -2,7 +2,7 @@
 
 - 🎓 Computer Engineering Student | 2026 Grad  
 - 🧑🏻‍💻 Full Stack Developer (MERN Stack) 
-- 📌 Interests: Web Development, Databases, Cloud, AI/ML, DevOps, Problem Solving  
+- 📌 Interests: Web Development, Databases, Generative AI, AI/ML, DevOps, Problem Solving  
 - 🚀 Driven by curiosity | Committed to continuously exploring, building, and learning every day  
 
 ---
