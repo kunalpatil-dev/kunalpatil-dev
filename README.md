@@ -2,7 +2,7 @@
 
 - 🎓 Computer Engineering Student | 2026 Grad  
 - 🧑🏻‍💻 Full Stack Developer (MERN Stack) 
-- 📌 Interests: Web Development, Databases, Generative AI, AI/ML, DevOps, Problem Solving  
+- 📌 Interests: Web Development, Databases, Generative AI, AI/ML, AWS, DevOps, Problem Solving  
 - 🚀 Driven by curiosity | Committed to continuously exploring, building, and learning every day  
 
 ---
@@ -11,7 +11,7 @@
 - **Frontend:** React.js, Tailwind CSS, HTML, CSS  
 - **Backend:** Node.js, Express.js, REST APIs, Authentication (JWT, OAuth)  
 - **Databases:** MongoDB, PostgreSQL, MySQL  
-- **Languages:** JavaScript (ES6+), TypeScript, Java, C++, Python
+- **Languages:** JavaScript (ES6+), TypeScript, Java, Python, C++
 - **Tools & Technologies:** Git, GitHub, Postman, Prisma ORM, Linux  
 
 ---
